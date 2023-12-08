@@ -1,0 +1,56 @@
+*{
+  margin: 0;
+  border:0;
+  background-color:  #d2e0fb;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+h1{
+  width: 100vw;
+  height: 5vh;
+  background-color: #8eaccd;
+  text-align: center;
+  color:#f6f1ee;
+  padding: 25px;
+}
+.container{
+  align-items: center;
+}
+
+
+#card-container{
+  margin-top: 10vh;
+  background-color:  #ed7c31a8;
+  width: 50vw;
+  height: 50vh;
+  margin-left: 25%;
+  border-radius: 10px;
+
+}
+#boton{
+  margin-top: 10px;
+  background-color:  #8eaccd;
+  color:#f6f1ee;
+  width: 10%;
+  height: 30px;
+  border-radius: 10px;
+}
+#boton:hover{
+  cursor: pointer;
+}
+
+#foto{
+  margin-top: 20px;
+  border-radius: 50%;
+}
+span{
+  background-color: #8eadcd00;
+  color: white;
+  display: block;
+}
+img{
+  margin-top: 20px;
+  border-radius: 50%;
+}
